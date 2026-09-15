@@ -1,0 +1,10 @@
+{
+  "name": "App TR",
+  "description": "Plataforma web de pronósticos de fútbol con App de Usuarios PWA, Panel de Administración, escrutinio matemático y sincronización con Google Apps Script y Sheets.",
+  "requestFramePermissions": [
+    "notifications"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
